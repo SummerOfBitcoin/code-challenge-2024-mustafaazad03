@@ -1,1 +1,5 @@
-# Update this file to run your own code
+#!/bin/sh
+
+cd ./mine-block
+npm install
+npm run mine
